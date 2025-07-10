@@ -24,7 +24,7 @@ Questo progetto analizza i fattori socio-sanitari ed economici che influenzano l
 
 - `report.pdf` — Report completo del progetto (formato IEEE)
 - `script.R` — Script R contenente l’intera analisi
-- `plot/` — Cartella con i grafici generati
+- `plot.zip` — Cartella con i grafici generati
 
 ## Autori
 
